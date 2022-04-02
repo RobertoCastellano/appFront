@@ -1,2 +1,2 @@
 # appFront
-WEB TEA
+Web App TEA
